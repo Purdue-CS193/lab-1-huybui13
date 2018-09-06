@@ -20,6 +20,9 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+Favorite things about CS193:
+1,Flexible Schedule
+2,Github tools
 
 **Bold** and _Italic_ and `Code` text
 
